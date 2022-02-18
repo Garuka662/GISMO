@@ -1,7 +1,7 @@
 # GISMO
 The aims of this project to develop an AI algorithm system to feed the data to a  Geographical Information System (GIS). This AI is capable of identifying the landscape images taken from the UAV’s (images with less noise, should be able to identify using naked  eye) that are embedded with camera details (such as relative or absolute value of the location  and focal length etc.) and give the detailed output of the images. If the images are covering a  single landscape, generate a single image when input images are uploaded in a given order with  details. 
 
-## Trained Model – Output and Results
+## Trained Model – Output and Results - Stage 02 (November 28, 2021)
 When the model was trained in each epoch, it maintained over 70% accuracy. 
 
 Following accuracies were the accuracies reached in an epoch.
